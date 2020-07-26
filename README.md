@@ -1,2 +1,2 @@
 # Voice-Controlled-Car-Model
-Controlling led's and screen using voice commands and smart car wipers
+Controlling LEDs and screen using voice commands and rain sensing smart car wipers. Uses Arduino UNO.
